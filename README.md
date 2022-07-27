@@ -1,16 +1,20 @@
-# horoscope_project
+# Horoscope Appliaction
 
-A new Flutter project.
+I made this appliaction for learn some news about Flutter & Firebae.
 
-## Getting Started
+Fire Base Auth / Login Register
+OnBoardScreen 
+Splah Screen 
+Main Menu 
+Horoscope Menu (gets data from firebase cloud)
+Blog Menu (gets data from firebase cloud)
+More Page ( Fortune Teller / Fortune Cookie / Fortune Whell ) 
 
-This project is a starting point for a Flutter application.
+Contact...
 
-A few resources to get you started if this is your first Flutter project:
+LinkedIn :
+https://www.linkedin.com/in/enes-vural-865878229
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Telegram :
+@Yuhixx
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
