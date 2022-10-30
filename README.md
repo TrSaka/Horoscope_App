@@ -12,6 +12,9 @@ More Page ( Fortune Teller / Fortune Cookie / Fortune Whell )
 
 Contact...
 
+Medium : 
+https://medium.com/@sakaspriv/horoscope-app-7925a5ef6884
+
 LinkedIn :
 https://www.linkedin.com/in/enes-vural-865878229
 
